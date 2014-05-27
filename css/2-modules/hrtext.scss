@@ -1,0 +1,18 @@
+.line-behind-text {
+text-align: center;
+border-bottom: 1px solid #CACACA;
+margin-bottom: .5em;
+margin-top: 4em;
+    h6 {
+        font-family: 'Oswald', sans-serif;
+        text-transform: uppercase;
+        color: gray;
+        font-weight: 500;
+        display: inline-block;
+        position: relative;
+        font-size: 1em;
+        top: 12px;
+        background: white;
+        padding: 0 10px;
+        }
+}
